@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emma.pierre96@gmail.com
+	name = Emma Pierre
